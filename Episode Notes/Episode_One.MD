@@ -2,7 +2,7 @@
 tags: Podcast Notes
 ---
 
-# Code Matters - Podcast Notes!
+# Code Matters! - Week of 7/5/20
 
 This will be our master document for the podcast details, and notes.
 
@@ -14,7 +14,7 @@ Coming soon.
 
 Coming soon.
 
-## Episode Notes - Week of 7/5/20
+## Episode Notes
 
 ### News Updates:
 
