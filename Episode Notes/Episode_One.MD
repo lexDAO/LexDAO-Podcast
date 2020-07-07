@@ -17,6 +17,7 @@ Coming soon.
 ## Episode Notes
 
 ### News Updates:
+- Bar exams going digital?
 
 ### Discussion:
 - Is yield farming going to blow up in everyone's faces?
