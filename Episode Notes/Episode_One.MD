@@ -10,14 +10,15 @@ This will be our master document for the podcast details, and notes.
 
 Coming soon.
 
-## Subscribe to the Podcast
+## Subscribe to the Podcast: https://anchor.fm/code-matters
 
 Coming soon.
 
 ## Episode Notes
 
 ### News Updates:
-- Bar exams going digital?
+- 
 
 ### Discussion:
 - Is yield farming going to blow up in everyone's faces?
+- Bar exams going digital?
